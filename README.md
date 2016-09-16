@@ -8,11 +8,6 @@ Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](htt
 hosted in [Github pages](https://pages.github.com/).
 
 
-## View the live demo
-
-[Vitae Live Demo](https://biomadeira.github.io/vitae)
-
-
 ## Screenshots
 
 ![resume page](https://raw.githubusercontent.com/biomadeira/vitae/gh-pages/assets/images/vitae_screen.png)
